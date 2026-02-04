@@ -29,8 +29,8 @@ This project provides a **comprehensive data analysis** of Netflix's film and se
 **Interactive Dashboard:**
 - **Streamlit** (web app for dynamic genre analysis)
 
-**Presentation:**
-- PowerPoint (executive summary and key findings)
+**Report:**
+- PDF (comprehensive data visualization report)
 
 ---
 
@@ -105,7 +105,6 @@ Access at: `http://localhost:8501`
 ---
 
 ## 📁 Project Structure
-
 ```
 Netflix-Data-Analysis/
 │
@@ -116,8 +115,8 @@ Netflix-Data-Analysis/
 │
 ├── app.py                          # Streamlit interactive dashboard
 │
-├── presentation/
-│   └── Netflix_Analysis.pptx       # PowerPoint presentation (French)
+├── report/
+│   └── Netflix_DataViz_Report.pdf  # Comprehensive data visualization report
 │
 └── README.md                       # Project documentation
 ```
@@ -206,14 +205,11 @@ Access at: `http://localhost:8501`
 
 ---
 
-## 👥 Authors
+## 👤 Author
 
 **Khadija MAHAMADOU ISSOUFOU**  
 Master's student in Data Science & Applied Economics  
 University of Lille
-
-**Ren Yue**  
-Collaborator
 
 📧 khadija.mahamadou19@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/khadija-mahamadou-issoufou)  
